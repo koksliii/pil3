@@ -1,0 +1,48 @@
+toggleMenu = "Rādīt/Slēpt izvēlni"
+darkMode   = "Tumšais režīms"
+
+[list]
+    section = "Sadaļa"
+
+    [list.page]
+        one   = "{{ .Count }} lapa"
+        few   = "{{ .Count }} lapas"
+        many  = "{{ .Count }} lapas"
+        other = "{{ .Count }} lapas"
+
+    [list.subsection]
+        one   = "Apakšsadaļa"
+        few   = "Apakšsadaļas"
+        many  = "Apakšsadaļas"
+        other = "Apakšsadaļas"
+
+[article]
+    back            = "Atpakaļ"
+    relatedContent  = "Ieteicamie raksti"
+    lastUpdatedOn   = "Atjaunināts"
+    tableOfContents = "Satura rādītājs"
+    readingTime     = "Lasīšanas laiks: {{ .Count }} min."
+
+[notFound]
+    title    = "Nav atrasts"
+    subtitle = "Pieprasītā lapa nepastāv"
+
+[widget]
+    [widget.archives]
+        title = "Arhīvi"
+        more  = "Vairāk"
+
+    [widget.tagCloud]
+        title = "Birkas"
+
+    [widget.categoriesCloud]
+        title = "Kategorijas"
+
+[search]
+    title       = "Meklēšana"
+    placeholder = "Ievadiet kaut ko..."
+    resultTitle = "Atrastas #PAGES_COUNT lapas ({{ .TimeTaken }} s.)"
+
+[footer]
+    builtWith  = "Izveidots ar {{ .Generator }}"
+    designedBy = "Tēma {{ .Theme }}, dizains {{ .DesignedBy }}"
