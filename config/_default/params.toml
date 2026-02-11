@@ -1,0 +1,8 @@
+[sidebar]
+emoji = "🌲"
+
+[sidebar.avatar]
+enabled = true
+src = "img/forest.png"
+local = true
+subtitleKey = "sidebarSubtitle" 
