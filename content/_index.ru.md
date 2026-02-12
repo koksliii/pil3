@@ -1,7 +1,7 @@
 ---
 menu:
     main:
-        name: ホーム
+        name: Блог
         weight: -100
         params:
             icon: home

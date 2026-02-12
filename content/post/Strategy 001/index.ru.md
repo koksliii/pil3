@@ -1,156 +1,155 @@
 ---
-title: Stratēģija ir vadlīnijas lēmumu pieņemšanai
-description: Bez stratēģijas jūsu rezultāts ir nejaušība?
+title: Стратегия — это руководство к принятию решений
+description: Без стратегии ваши результаты случайны?
 date: 2026-02-11
-slug: strategija
+slug: strategiya
 categories:
-    - Documentation
+    - Размышления
 tags:
 ---
 
-Es varu saprast biznesa censoņus, kuri pārdod ar haotiskām aktivitātēm: spontānās akcijas, interneta tendeņču saturs, kampaņas “auditorijai 18-65 gadi.” - šiem uzņēmumiem nav stratēģijas un rezultāts ir panākts tikai disciplīnas un uzstājības dēļ. Šiem uzņēmumiem nav atsevišķa mārketinga cilvēka — un es nerunāju par biroja administrātori vai lietvedi, kura veido saturu soc. tīkliem - šim biznesam nav komunikācijas stratēģija. 
+Я могу понять бизнесменов, которые продвигают свои продукты хаотичными действиями: спонтанные акции, контент по интернет-трендам, кампании «для аудитории 18–65 лет». У этих компаний нет стратегии, и результат достигается только благодаря дисциплине и настойчивости. У этих компаний нет отдельного маркетолога — и я не говорю о офисном администраторе или делопроизводителе, который ведет соцсети — у бизнеса нет коммуникационной стратегии.  
 
-Bet ļoti skumji novērot, kad mārketinga cilvēks darbojās bez stratēģijas. Veido kampaņas uz izjūtu, vai tāpēc, ka vajag notirgot no noliktavas...
+Но очень грустно наблюдать, когда маркетолог действует без стратегии. Делает кампании наугад, либо просто чтобы распродать склад...
 
-Kāpēc vispār ir vajadzīga komunikācijas stratēģija un kas tā ir?
+Зачем вообще нужна коммуникационная стратегия и что это такое?
 
-Ja īsumā, tad stratēģija ir vadlīnijas lēmumu pieņemšanai.
+Вкратце, стратегия — это **руководство для принятия решений**.
 
-# Kā izskatās darbs bez stratēģijas:
+# Как выглядит работа без стратегии
 
-- Projektu vadītājs ar partneriem runā nepārliecināti, jo nesaprot uz ko balstīties, kāda ir lielā bilde un kādas ir galvenās vajadzības - nav sapratnes, kā spēlēt ilgtermiņā.
+- Руководитель проекта общается с партнёрами неуверенно, потому что не понимает, на чем опираться, какова общая картина и какие основные потребности — нет понимания, как действовать в долгосрочной перспективе.
 
-- Pārdevējs līdz galam nesaprot, kādu produktu pārdod. Darbs ar iebildumiem ir čābīgs, nespēj noformulēt konkrētas produkta vērtības un iespējas.
+- Продавец до конца не понимает, какой продукт продаёт. Работа с возражениями неэффективна, невозможно чётко сформулировать ценность и возможности продукта.
 
-- Dizainers nespēj saprast, vai ir spiests smagi un sāpīgi domāt par saņemto uzdevumu: “uztaisi vizualizāciju produktam X, lai varam soc tīklos iepostēt”.
+- Дизайнер не понимает, должен ли он тяжело думать над заданием: «Сделай визуализацию продукта X для публикации в соцсетях».
 
-- Mārketinga vadītājs rīko haotiskas kampaņas, “ēd” budžetu, deliģē neskaidrus uzdevumus. 
+- Руководитель маркетинга проводит хаотичные кампании, «съедает» бюджет, делегирует непонятные задачи.  
 
-Eh... mārketinga cilvēkam ir jārūpējas par visu komunikāciju, zīmolu. Šis cilvēks iesaistās visos biznesa posmos. Mijiedarbojās ar katru kolēģi, ar katru svarīgu klientu, partneri. Gādā, lai gan iekšā, gan ārā visiem viss ir skaidrs. Bet realitāte pārsvarā ir citādāka... par ko man ļoti skumji.
+Эх… маркетолог должен заботиться о всей коммуникации и бренде. Этот человек участвует на всех этапах бизнеса, взаимодействует с каждым коллегой, каждым важным клиентом и партнёром. Следит, чтобы внутри и снаружи всё было понятно. Но реальность чаще всего другая… и это очень грустно.
 
-# No kurienes nāk “stratēģija” un “taktika”
+# Откуда пришли “стратегия” и “тактика”
 
-Šie divi vārdi nāk no karadarbības. 
+Эти два слова пришли из военного дела.  
 
-**Stratēģija** - kā mēs karosim - mērķis
+**Стратегия** — как мы будем воевать — цель  
 
-**Taktika** - ko mēs darīsim - darbība
+**Тактика** — что мы будем делать — действия  
 
-Aptuveni 5. g.s. p.m.ē. domātājs un karavadonis [Suņdzī](https://lv.wikipedia.org/wiki/Su%C5%86dzi) uzrakstīja traktātu, mūsdienās tas nonāca līdz grāmatas formātam ar nosaukumu “[Kara māskla](https://lv.wikipedia.org/wiki/Kara_m%C4%81ksla)”.
+Примерно в V веке до н.э. мыслитель и военачальник [Сунь-Цзы](https://ru.wikipedia.org/wiki/Сунь-цзы) написал трактат, который дошёл до нас в виде книги под названием “[Искусство войны](https://ru.wikipedia.org/wiki/Искусство_войны)”.
 
-Kad lasīju šo grāmata, šad tad pieķēru sevi pie domas “Kāda banalitāte”, bet kā jau parasti, tās banālās lietas ir tās svarīgākās. 
+Когда я читал эту книгу, иногда ловил себя на мысли «Какая банальность», но, как обычно, именно банальные вещи самые важные.  
 
-Daži citāti no grāmatas:
+Некоторые цитаты из книги:
 
-> «Ja tu zini pretinieku un sevi, uzvara nebūs apbdraudēta; ja tu sapratu “Debesis” un “Zemi”, tad uzvara būs pilnvērtīga.»
+> «Если ты знаешь противника и знаешь себя, победа не будет под угрозой; если ты понимаешь “Небо” и “Землю”, победа будет полной.»
 
-> «Augstākā kara māksla ir uzvara bez kaujas.»
+> «Высшее мастерство в войне — победа без сражения.»
 
-> «Stratēģija bez taktikas — lēns ceļš uz uzvaru. Taktika bez stratēģijas — troksnis pirms sakāves.»
+> «Стратегия без тактики — медленный путь к победе. Тактика без стратегии — шум перед поражением.»
 
-> «Uzvar tas, kurš zina, kad cīnīties un kad nevajag.»
+> «Побеждает тот, кто знает, когда сражаться, а когда не надо.»
 
-Mans “tulkojums” šiem vārdiem biznesa valodā:
-- Zini tirgu, kurā esi;
-- Zini savu auditoriju;
-- Esi lietas kursā par savu risinājumu un tā spējām;
-- Tirgojot ņem vērā apstākļus;
-- Rīkojies plānveidā, nevis haotiski - domā ilgtermiņā;
-- Nevajag visu laiku tikai pārdot.
+Мой «перевод» этих слов на язык бизнеса:  
+- Знай рынок, на котором ты находишься;  
+- Знай свою аудиторию;  
+- Будь в курсе своего решения и его возможностей;  
+- При продвижении учитывай обстоятельства;  
+- Действуй планомерно, а не хаотично — думай на долгосрочную перспективу;  
+- Не нужно всё время только продавать.
 
-Kas vispār ir karš? Tā ir cīņa par resursiem.
+Что такое война? Это борьба за ресурсы.  
 
-Un kas notiek biznesā, kas notiek tirgū?
-Notiek cīņa par pircēju, un pircējs ir resurs. 
+А что происходит в бизнесе, на рынке?  
+Борьба за покупателя, а покупатель — это ресурс.  
 
-Tātad cilvēks ir resurss.
+То есть человек — это ресурс.  
 
-Un pēc [Suņdzī](https://lv.wikipedia.org/wiki/Su%C5%86dzi) traktāta pagāja vairāk kā divi tukstoši gadi — 20. g.s. vārdus “[stratēģija](https://lv.wikipedia.org/wiki/Strat%C4%93%C4%A3ija)” un “taktika” sāk pielietot: biznesā, mārketingā, politikā - komunikācijā, vienvārdsakot. Sākās “kari” par citu uzmanību - par cilvēka uzmanību, par tā darbībām...
+И после трактата [Сунь-Цзы](https://ru.wikipedia.org/wiki/Сунь-цзы) прошло более двух тысяч лет — в XX веке слова “[стратегия](https://ru.wikipedia.org/wiki/Стратегия)” и “тактика” начали применять: в бизнесе, маркетинге, политике — коммуникации, одним словом. Начались «войны» за внимание других — за внимание человека, за его действия...
 
-___
+---
 
-# Stratēgija pret taktiku: karš - bizness
+# Стратегия против тактики: война — бизнес
 
-Viss ir “vienkārši”, sākumā mēs uzstādam mērķi, veidojam ilgtermiņa domāšanu - rīcību principus. Un no mērķiem un principiem izrietot, uzstādam īstermiņa uzdevumus - sākam rīkoties. 
+Всё «просто»: сначала мы ставим цели, формируем долгосрочное мышление — принципы действий. И исходя из целей и принципов, ставим краткосрочные задачи — начинаем действовать.  
 
-### Karš: stratēģija - taktika
+### Война: стратегия — тактика
 
-Stratēģija ir ilgtermiņa domāšana:
-- Kādu karu mēs karojam?
-- Kādi ir mūsu mērķi: resursi, ietekme, demoralizēšana?
-- Vai šo karu ir jākaro?
+Стратегия — это долгосрочное мышление:
+- Какую войну мы ведём?
+- Каковы наши цели: ресурсы, влияние, деморализация?
+- Стоит ли вообще вести эту войну?
 
-> Ja mērķi var sasniegt citiem veidiem, tad stratēģija var iekļaut sevī “nekarot”.
+> Если цель может быть достигнута другими способами, стратегия может включать в себя «не воевать».
 
-Taktika ir īstermiņa lēmumi:
-- Kādā frontē uzbrukt?
-- Kādā laikā uzbrukt?
-- Ar kādu ieroci uzbrukt?
+Тактика — краткосрочные решения:
+- На каком фронте атаковать?
+- В какое время?
+- С каким оружием?
 
-> Taktika var būt apburoša, bet ja stratēģija ir kļūdaina, tad karš var būt zaudēts arī pēc vairākām uzvarētām cīņām.
+> Тактика может быть блестящей, но если стратегия неверна, война может быть проиграна даже после нескольких побед.
 
-### Bizness: stratēģija - taktika
+### Бизнес: стратегия — тактика
 
-Biznesa stratēģija tā ir izvēle:
-- Kādā tirgū mēs “spēlējam”?
-- Ar ko mēs atšķiramies?
-- Kādu vērtību mēs veidojam?
-- Kam mēs sakām “nē”?
+Стратегия бизнеса — это выбор:
+- На каком рынке мы «играем»?  
+- Чем мы отличаемся?  
+- Какую ценность создаём?  
+- Кому говорим «нет»?
 
-**Stratēģija** ir par fokusu, par robežām un prioritātēm, nevis par aktivitāšu daudzumu. 
+**Стратегия** — про фокус, про границы и приоритеты, а не про количество действий.  
 
-Piemēri:
-**Apple**: Prēmium piererdze, slēgtā ekosistēma.
+Примеры:  
+**Apple**: премиальный опыт, закрытая экосистема.  
+**Ryanair**: самая низкая цена, отказ от всего лишнего.
 
-**Ryanari**: Lētākā cena, atsakoties no visa liekā.
+> Стратегия задаёт правила, по которым выбираются тактические действия.
 
-> Stratēģija nosaka noteikumus, pēc kuriem tiek izvēlētas taktiskas darbības. 
+**Тактика** в бизнесе — конкретные инструменты реализации:  
+- Рекламная кампания;  
+- Акция на цену;  
+- Коммуникация в соцсетях;  
+- Скрипты продаж.
 
-**Taktika** biznesā - konkrēti instrumenti realizācijai:
-- Reklāmas kampaņa;
-- Cenu akcija;
-- Soc. tīklu komunikācija;
-- Pārdošanas skripti.
+> Тактика без стратегии — хаотичные действия: много движения, мало результата.
 
-> Taktika bez stratēģijas ir haotiskas darbības — daudz kustību, maz rezultāta. 
+### Параллели: Война — Бизнес — Коммуникация
 
-### Paralēles: Karš - Bizness - Komunikācija
+| Война            | Бизнес     | Коммуникация               |
+|------------------|-----------|---------------------------|
+| Противник        | Конкурент | Равнодушие, шум           |
+| Поле боя         | Рынок     | Медийное пространство/канал|
+| Оружие           | Продукты  | Слова, образы, стиль жизни |
+| Победа           | Контроль  | Доверие                    |
 
-| Karš            | Bizness    | Komunikācija             |
-|-----------------|------------|---------------------------|
-| Pretinieks      | Konkurents | Vienaldzība, troksnis     |
-| Kaujas lauks    | Tirgus     | Mediju telpa/kanāls       |
-| Ieroči          | Produkti   | Vārdi, tēli, dzīvesstils  |
-| Uzvara          | Kontrole   | Uzticēšanās               |
+# Заключение
 
-# Noslēgums
+Стратегия — это не документ, спрятанный в облаке. Это инструкция, руководство для принятия решений в повседневной работе.  
 
-Stratēģija nav dokuments, kas paslēpts mākoņu glabātuvus mapē. Tā ir instrukcija, vadlīnijas ikdienas lēmumu pieņemšanai. 
+> Стратегия — это про мышление, про то, как действовать и жить в долгосрочной перспективе.
 
-> Stratēģija ir par domāšanu, par to, kā rīkoties un dzīvot ilgtermiņā 
+## 5 идей
 
-## 5 idejas
-
-1. Stratēģija atbild uz jautājumu “Kāpēc” un “Kur”, taktika - “Kā” un “ar ko”. Bez stratēģijas taktika būs haotiska. 
-2. “Tukša muca tālu skan” — uzvara komunikācijā netiek panākta ar skaļumu, bet gan ar uzticību. Uzticību ar vienu kampaņu nenopirksi.
-3. Pretinieks komunikācijā - auditorijas vienaldzība, nevis konkurents. Tāpēc ir svarīga pozicionēšana, nevis uzbrukums.
-4. Stratēģija ir domāšanas instrukcija kā pieņemt lēmumus - vadlīnijas, kādu taktiku izmantot.
-5. Laba stratēģija strādā arī tad, kad tu klusē, jo auditorija zina kas tu esi un ko tu vari. 
+1. Стратегия отвечает на вопрос «Почему» и «Куда», тактика — на «Как» и «С чем». Без стратегии тактика будет хаотичной.  
+2. «Пустая бочка далеко слышна» — победа в коммуникации достигается не шумом, а доверием. Одной кампанией доверие не купишь.  
+3. Противник в коммуникации — равнодушие аудитории, а не конкурент. Поэтому важна позиционирование, а не нападение.  
+4. Стратегия — это инструкция к мышлению для принятия решений, руководство, какую тактику использовать.  
+5. Хорошая стратегия работает даже когда ты молчишь, потому что аудитория знает, кто ты и что умеешь.
 
 # CTA
-Ja ir aizdomas, ka uzņēmumā:
-- komunikācija ir aktīva, bet bez rezultātiem;
-- komandā nevisai saprot kā pardot, vai saprot stratēģiju “pa savam”;
-- Patērētājs/partners nesaprot biznesa/produkta vērtības,
+Если вы замечаете, что в вашей компании:  
+- коммуникация активна, но без результатов;  
+- команда не до конца понимает, как продавать, или понимает «по-своему»;  
+- Потребитель/партнёр не понимает ценность бизнеса/продукта,  
 
-tad es varu palīdzēt:
-- izstrādāt stratēģiju;
-- novadīt konsultāciju/auditu stratēģijai
-- Apmācīt par stratēģiju.
+я могу помочь:  
+- разработать стратегию;  
+- провести консультацию/аудит стратегии;  
+- обучить стратегии.
 
-Un nav svarīgi par ko:
-- Produkts
-- Zīmols
-- Komunikācijas kanāls
+И не важно, о чём:  
+- Продукт  
+- Бренд  
+- Коммуникационный канал  
 
-> Lai notiek uzsvaras bez kaujas — ar sapratni nevs 
+> Добивайтесь успеха без «войны» — с пониманием, а не шумом.

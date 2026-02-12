@@ -4,7 +4,7 @@ description: Bez stratēģijas jūsu rezultāts ir nejaušība?
 date: 2026-02-11
 slug: strategija
 categories:
-    - Documentation
+    - Pārdomas
 tags:
 ---
 

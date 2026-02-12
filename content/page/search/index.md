@@ -1,6 +1,6 @@
 ---
-title: "Search"
-slug: "search"
+title: “Meklēt"
+slug: “meklet"
 layout: "search"
 outputs:
     - html
