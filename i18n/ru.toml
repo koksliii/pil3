@@ -46,3 +46,6 @@ darkMode   = "Тёмный режим"
 [footer]
     builtWith  = "Создано при помощи {{ .Generator }}"
     designedBy = "Тема {{ .Theme }}, дизайн {{ .DesignedBy }}"
+
+[sidebarSubtitle]
+   other = "Привет, я Мезх!"

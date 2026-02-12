@@ -44,5 +44,8 @@ darkMode   = "Tumšais režīms"
     resultTitle = "Atrastas #PAGES_COUNT lapas ({{ .TimeTaken }} s.)"
 
 [footer]
-    builtWith  = "Izveidots ar {{ .Generator }}"
-    designedBy = "Tēma {{ .Theme }}, dizains {{ .DesignedBy }}"
+    builtWith  = "Progress ir kā koks - aug lēni, bet pārliecinoši!"
+    designedBy = ""
+
+[sidebarSubtitle]
+other = "Sveiki, esmu Mežs!"

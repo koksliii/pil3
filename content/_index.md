@@ -1,4 +1,4 @@
----
+x	---
 menu:
     main:
         name: Home

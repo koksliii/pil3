@@ -6,3 +6,12 @@ enabled = true
 src = "img/forest.png"
 local = true
 subtitleKey = "sidebarSubtitle" 
+
+[card]
+showDate = false
+
+[article]
+showDate = false
+
+[list]
+showDate = false

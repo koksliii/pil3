@@ -11,8 +11,12 @@ defaultContentLanguageInSubdir = true
 languageName = "Latviešu" 
 languageCode = "lv" 
 weight = 1 
+[languages.lv.params.sidebar]
+subtitle = "Sveiki!"
 
 [languages.ru] 
 languageName = "Русский" 
 languageCode = "ru" 
 weight = 2
+[languages.ru.params.sidebar]
+subtitle = "привет!"
